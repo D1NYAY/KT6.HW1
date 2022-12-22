@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                     )
                 })
             } else {
-                Toast.makeText(this, "You should write something", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Напишите что-нибудь", Toast.LENGTH_SHORT).show()
             }
         }
     }

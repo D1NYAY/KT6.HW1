@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KT6.HW1</string>
+    <string name="main_images">main_images</string>
+    <string name="random">random</string>
+    <string name="submit">submit</string>
+    <string name="enter_url">Enter URL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input">input</string>
+    <string name="put_text">put text</string>
+    <string name="enter">enter</string>
+</resources>
